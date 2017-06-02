@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -11,6 +11,6 @@
 	<h3>ㄲㅑ루루~</h3>
 	
 	
-	
+	<strong>인재가 추가함</strong>
 </body>
 </html>
